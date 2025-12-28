@@ -1,28 +1,27 @@
-# 💫 Hi, I'm Sandeep 👋  
+# 💫 Hi, I'm Sandeep 👋
 
-🚀 **Full Stack Developer | UI/UX Designer | AI Enthusiast**  
-I love building scalable web applications, crafting intuitive user experiences, and experimenting with modern web & AI technologies.
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="100%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=false&vCenter=false&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+Enthusiast;Building+scalable+web+apps" alt="Typing SVG" />
+      </a>
+      <p>I love building <b>scalable web applications</b>, crafting <b>intuitive user experiences</b>, and experimenting with <b>modern web & AI technologies</b>.</p>
+      <p>🚀 Currently exploring <b>Next.js</b> and <b>n8n</b> for workflow automation.</p>
+      <p>💬 Open to collaboration, freelance work, and creative tech discussions.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💻 Projects
 - ✅ **To-Do List App** (React)
 - 🌐 **Portfolio Website** (Vanilla JavaScript)
-- 🧮 Calculator  
-- 🌡️ Temperature Converter  
-- ☁️ Weather App  
-- 🎯 Age Calculator  
-
-🚀 Currently exploring **Next.js** and **n8n** for workflow automation.
-
-💬 Open to collaboration, freelance work, and creative tech discussions.
-
----
-
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sandeep_0402_Sandeep)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandeep-aegula)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aegulasandeep@gmail.com)
+- 🧮 **Calculator**
+- 🌡️ **Temperature Converter**
+- ☁️ **Weather App**
+- 🎯 **Age Calculator**
 
 ---
 
@@ -53,7 +52,9 @@ I love building scalable web applications, crafting intuitive user experiences, 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)
 
----## 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sandeep-aegula&theme=dark&show_icons=true&count_private=true" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-aegula&theme=dark" alt="Streak" />
@@ -63,7 +64,22 @@ I love building scalable web applications, crafting intuitive user experiences, 
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/Sandeep-aegula/Sandeep-aegula/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/Sandeep_0402_Sandeep" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a> &nbsp;
+  <a href="https://linkedin.com/in/Sandeep-aegula" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
+  <a href="mailto:aegulasandeep@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
