@@ -63,9 +63,7 @@ I love building scalable web applications, crafting intuitive user experiences, 
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
+![snake gif](https://github.com/Sandeep-aegula/Sandeep-aegula/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
