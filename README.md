@@ -53,18 +53,22 @@ I love building scalable web applications, crafting intuitive user experiences, 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-aegula&theme=dark&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Sandeep-aegula&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-aegula&layout=compact&theme=dark)
+---## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sandeep-aegula&theme=dark&show_icons=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-aegula&theme=dark" alt="Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandeep-aegula&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Sandeep-aegula&icon=0&color=0)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Sandeep-aegula&repo=Sandeep-aegula&label=Profile%20Views&countColor=%23fbbf24" alt="Visitor Count" />
+</p>
