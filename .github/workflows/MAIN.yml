@@ -3,13 +3,13 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs every 12 hours to keep the graph fresh
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
   
-  # This command allows us to run the Action manually from the Actions tab.
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push to the main branch
+  # Run on every push to the main branch
   push:
     branches:
     - main
@@ -17,7 +17,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Required permissions to write the generated files to the output branch
     permissions:
       contents: write
 
@@ -26,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Generates the snake animation based on your public contributions
+      # Generates the snake animation with dark theme support
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -35,8 +34,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated SVG files to a separate branch called "output"
-      # This keeps your main branch clean while hosting the images.
+      # Push the generated SVG files to the "output" branch
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
