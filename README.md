@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sandeep-aegula&theme=dark&show_icons=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-aegula&theme=dark" alt="Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-aegula&theme=dark" alt="Streak" /> -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandeep-aegula&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
