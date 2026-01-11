@@ -4,7 +4,7 @@
   <tr>
     <td align="left" width="100%">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=false&vCenter=false&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+Enthusiast;Building+scalable+web+apps" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=false&vCenter=false&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+scalable+web+apps" alt="Typing SVG" />
       </a>
       <p>I love building <b>scalable web applications</b>, crafting <b>intuitive user experiences</b>, and experimenting with <b>modern web & AI technologies</b>.</p>
       <p>🚀 Currently exploring <b>Next.js</b> and <b>n8n</b> for workflow automation.</p>
@@ -14,15 +14,32 @@
 </table>
 
 ---
+### 🌟 Featured Projects
 
-## 💻 Projects
-- ✅ **To-Do List App** (React)
-- 🌐 **Portfolio Website** (Vanilla JavaScript)
-- 🧮 **Calculator**
-- 🌡️ **Temperature Converter**
-- ☁️ **Weather App**
-- 🎯 **Age Calculator**
+#### 🕒 [TimeChat](https://github.com/Sandeep-aegula/TimeChat)
+*Real-time Communication Platform*
+- **Tech Stack:** React 19, Vite, Tailwind CSS, React Compiler.
+- **Key Contribution:** Engineered a high-performance messaging interface using the new React Compiler for automatic memoization.
+- **Impact:** Optimized UI rendering speed and implemented high-precision timestamps for enhanced message observability.
 
+#### 🧮 [Google Arcade Points Calculator](https://github.com/Sandeep-aegula/arcade-calculator)
+*Developer Productivity Tool*
+- **Tech Stack:** React.js, JavaScript (ES6+), CSS3.
+- **Key Contribution:** Developed a custom logic engine to automate complex point calculations for the Google Cloud community.
+- **Impact:** Resolved multi-tier badge logic complexities, providing an accurate tracking tool for 100+ Arcade participants.
+
+#### 🌐 [Personal Portfolio Website](https://github.com/Sandeep-aegula/Portfolio_2)
+*Digital Identity & Showcase*
+- **Tech Stack:** Vanilla JavaScript, HTML5, CSS3, Vercel.
+- **Key Contribution:** Designed and deployed a lightweight, SEO-optimized portfolio to showcase my journey from **Intel Unnati Training** to SDE roles.
+- **Impact:** Achieved a 100/100 Google Lighthouse score for performance and accessibility.
+
+
+#### ☁️ [AWSClub Platform](https://github.com/Sandeep-aegula/AWSClub)
+*Cloud Community Hub*
+- **Tech Stack:** Node.js, Express, AWS SES (Simple Email Service).
+- **Key Contribution:** Integrated professional-grade cloud email services for automated community notifications.
+- **Impact:** Established a scalable communication architecture for the AWS developer club.
 ---
 
 ## 🛠️ Tech Stack
