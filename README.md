@@ -1,3 +1,4 @@
+![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/400a2c2e-4516-459a-af8e-1e6a3d8f3601)
 # 💫 Hi, I'm Sandeep 👋
 
 <table align="center" width="100%">
