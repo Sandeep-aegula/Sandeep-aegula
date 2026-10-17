@@ -1,106 +1,50 @@
-![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/400a2c2e-4516-459a-af8e-1e6a3d8f3601)
-# 💫 Hi, I'm Sandeep 👋
+# Hi, I'm Sandeep Aegula 👋
 
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="100%">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=false&vCenter=false&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+scalable+web+apps" alt="Typing SVG" />
-      </a>
-      <p>I love building <b>scalable web applications</b>, crafting <b>intuitive user experiences</b>, and experimenting with <b>modern web & AI technologies</b>.</p>
-      <p>🚀 Currently exploring <b>Next.js</b> and <b>n8n</b> for workflow automation.</p>
-      <p>💬 Open to collaboration, freelance work, and creative tech discussions.</p>
-    </td>
-  </tr>
-</table>
+I'm a Computer Science and Engineering student interested in building useful software, full-stack web applications, and AI-powered tools. I enjoy turning ideas into working projects and improving them through hands-on development.
 
----
-### 🌟 Featured Projects
+- 💻 Interested in full-stack development, Java, and AI/ML applications
+- 🌱 Currently exploring modern web development and workflow automation
+- 🤝 Open to collaborating on meaningful software projects
+- 📫 Reach me at [Email](mailto:aegulasandeep@gmail.com) · [LinkedIn](https://www.linkedin.com/in/Sandeep-aegula)
 
-#### 🕒 [TimeChat](https://github.com/Sandeep-aegula/TimeChat)
-*Real-time Communication Platform*
-- **Tech Stack:** React 19, Vite, Tailwind CSS, React Compiler.
-- **Key Contribution:** Engineered a high-performance messaging interface using the new React Compiler for automatic memoization.
-- **Impact:** Optimized UI rendering speed and implemented high-precision timestamps for enhanced message observability.
+## Featured Projects
 
-#### 🧮 [Google Arcade Points Calculator](https://github.com/Sandeep-aegula/arcade-calculator)
-*Developer Productivity Tool*
-- **Tech Stack:** React.js, JavaScript (ES6+), CSS3.
-- **Key Contribution:** Developed a custom logic engine to automate complex point calculations for the Google Cloud community.
-- **Impact:** Resolved multi-tier badge logic complexities, providing an accurate tracking tool for 100+ Arcade participants.
+### [TimeChat](https://github.com/Sandeep-aegula/timechat)
+A real-time chat application with one-to-one and group conversations, temporary access codes, file and voice-message sharing, and chat export. Built with a MERN-oriented stack and Socket.IO.
 
-#### 🌐 [Personal Portfolio Website](https://github.com/Sandeep-aegula/Portfolio_2)
-*Digital Identity & Showcase*
-- **Tech Stack:** Vanilla JavaScript, HTML5, CSS3, Vercel.
-- **Key Contribution:** Designed and deployed a lightweight, SEO-optimized portfolio to showcase my journey from **Intel Unnati Training** to SDE roles.
-- **Impact:** Achieved a 100/100 Google Lighthouse score for performance and accessibility.
+### [CalistheniX](https://github.com/Sandeep-aegula/CalistheniX)
+A gamified fitness web application built with Next.js, with project documentation for setup and deployment.
 
+### [SentinelCore-SecureOps](https://github.com/Sandeep-aegula/SentinelCore-SecureOps)
+A security operations dashboard project focused on asset management, incident workflows, security metrics, and audit information, using a React frontend, Spring Boot backend, and PostgreSQL.
 
-#### ☁️ [AWSClub Platform](https://github.com/Sandeep-aegula/AWSClub)
-*Cloud Community Hub*
-- **Tech Stack:** Node.js, Express, AWS SES (Simple Email Service).
-- **Key Contribution:** Integrated professional-grade cloud email services for automated community notifications.
-- **Impact:** Established a scalable communication architecture for the AWS developer club.
----
+### [Portfolio Website](https://github.com/Sandeep-aegula/Portfolio_2)
+A personal portfolio project built with Next.js. The repository includes additional deployment and Docker documentation.
 
-## 🛠️ Tech Stack
+### [Calculator Web App](https://github.com/Sandeep-aegula/Calculator)
+A responsive browser-based calculator built with HTML, Tailwind CSS, and JavaScript, supporting common arithmetic operations and input-error handling.
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### [Weather Forecast](https://github.com/Sandeep-aegula/Weather_Forecast)
+A responsive weather application built with HTML, CSS, and JavaScript that supports city search and browser geolocation.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+## Technologies
 
-### Backend & Tools
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+**Languages**  
+Java · JavaScript · TypeScript · Python · C
 
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)
+**Frontend**  
+React · Next.js · HTML · CSS · Tailwind CSS
 
----
+**Backend & Data**  
+Node.js · Spring Boot · MySQL · PostgreSQL · MongoDB
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sandeep-aegula&theme=dark&show_icons=true&count_private=true" alt="Stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-aegula&theme=dark" alt="Streak" /> -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandeep-aegula&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+**Tools**  
+Git · GitHub · Docker · Postman
 
----
+> Technologies listed reflect tools used across my projects and learning. Individual repositories document each project's specific stack and setup.
 
-### 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sandeep-aegula/Sandeep-aegula/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+## Connect
 
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/Sandeep_0402_Sandeep" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a> &nbsp;
-  <a href="https://linkedin.com/in/Sandeep-aegula" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
-  <a href="mailto:aegulasandeep@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Sandeep-aegula&repo=Sandeep-aegula&label=Profile%20Views&countColor=%23fbbf24" alt="Visitor Count" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/Sandeep-aegula)
+- [Email](mailto:aegulasandeep@gmail.com)
+- [GitHub Repositories](https://github.com/Sandeep-aegula?tab=repositories)
